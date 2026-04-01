@@ -125,5 +125,4 @@ python validate_app.py
 
 - Lender operations teams prioritizing intervention queues
 - Risk teams monitoring early-stage borrower deterioration
-- Product teams testing how support actions may reduce expected loss
-- Recruiter/demo audiences looking for an end-to-end fintech decision system
+  

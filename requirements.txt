@@ -5,3 +5,8 @@ plotly
 openai
 pydantic
 datasets
+scikit-learn
+xgboost
+pyarrow
+fsspec
+huggingface_hub
